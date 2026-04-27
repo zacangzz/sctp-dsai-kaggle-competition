@@ -15,5 +15,7 @@ dependencies = [
     "s2sphere",
     "geohash2",
     "shap",
-    "hdbscan"
+    "hdbscan",
+    "optuna-integration",
+    "optuna"
 ]
